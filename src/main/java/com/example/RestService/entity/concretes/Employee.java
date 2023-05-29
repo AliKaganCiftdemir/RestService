@@ -1,8 +1,6 @@
 package com.example.RestService.entity.concretes;
 
 import com.example.RestService.entity.abstracts.IEmployee;
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 
